@@ -151,6 +151,6 @@ crashlytics-build.properties
 fabric.properties
 
 data
-public_data
+# public_data
 exp
 tmp
